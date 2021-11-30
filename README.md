@@ -6,3 +6,5 @@ Open mp OpenMP is an Application Program Interface (API), jointly defined by a g
 This code is about solving The traveling salesman problem by using a genetic algorithm with OpenMP library. I tried to make a program and parallelize that code. I checked this code for an undirected graph with ten nodes and Weighted by Euclidean distance.
 
 
+
+
