@@ -1,10 +1,27 @@
-# TSP-with-GA-parallel-code-with-open-mp
+# Solving the Traveling Salesman Problem using Genetic Algorithm and OpenMP
 
-The traveling salesman problem (TSP) is an algorithmic problem tasked with finding the shortest route between a set of points and locations that must be visited. In the problem statement, the nodes are the cities a salesperson might visit. The salesman‘s goal is to keep both the travel costs and the distance traveled as low as possible.
-Genetic algorithm Genetic algorithms are randomized search algorithms developed to imitate the mechanics of natural selection and natural genetics. Genetic algorithms operate on string structures, like biological structures, evolving in time according to the rule of survival of the fittest by using a randomized yet structured information exchange. Thus, in every generation, a new set of strings is created, using parts of the fittest members of the old group.
-Open mp OpenMP is an Application Program Interface (API), jointly defined by a group of major computer hardware and software vendors. OpenMP provides a portable, scalable model for developers of shared memory parallel applications. The API supports C/C++ and Fortran on a wide variety of architectures.
-This code is about solving The traveling salesman problem by using a genetic algorithm with OpenMP library. I tried to make a program and parallelize that code. I checked this code for an undirected graph with ten nodes and Weighted by Euclidean distance.
+Welcome to the **TSP with Genetic Algorithm Parallel Code using OpenMP** repository. This project embarks on a journey to conquer the renowned Traveling Salesman Problem (TSP), a complex challenge centered around identifying the optimal route that a salesperson must traverse to visit a set of cities while minimizing travel costs and overall distance traveled.
 
+## Unveiling the Traveling Salesman Challenge
 
+The crux of the Traveling Salesman Problem revolves around navigating the intricate network of cities, with the salesperson's objective of devising the shortest route. The challenge is to find an efficient solution that ensures each city is visited once and only once, while also minimizing the total distance traveled. This optimization conundrum serves as a classic benchmark for algorithmic prowess.
+
+## Leveraging Genetic Algorithms
+
+Genetic algorithms, drawing inspiration from the mechanisms of natural selection and genetics, offer a compelling approach to addressing complex optimization problems. Operating on string structures analogous to biological entities, genetic algorithms evolve over generations through a process of survival of the fittest. In each iteration, new sets of solutions are crafted, borrowing traits from the most successful solutions of the previous generation.
+
+## Harnessing the Power of OpenMP
+
+Enter OpenMP—an Application Program Interface (API) jointly crafted by leading computer hardware and software vendors. OpenMP provides a portable and scalable framework, empowering developers to create shared memory parallel applications with ease. With support for languages like C/C++ and Fortran, OpenMP caters to diverse architectures and computational environments.
+
+## The Confluence of Techniques
+
+This repository encapsulates a robust solution to the Traveling Salesman Problem by ingeniously combining the prowess of genetic algorithms with the efficiency of OpenMP parallelization. The objective is to devise an optimized route for the salesperson while harnessing the power of parallel processing to expedite the solution-seeking process. The program has been meticulously crafted and parallelized to tackle TSP instances—more specifically, an undirected graph with ten nodes weighted by Euclidean distance.
+
+## Engage and Collaborate
+
+Join us on this exciting voyage to unlock the secrets of optimal route planning, genetic algorithms, and parallel computing. Delve into the code, experiment with different inputs, and contribute to the advancement of efficient solutions for the Traveling Salesman Problem. Your active involvement and collaboration are pivotal as we strive to conquer this algorithmic challenge and pave the way for innovative optimization strategies.
+
+For inquiries, collaborations, or insights, please connect with [Nader NEmati](mailto:nnevar@utu.fi).
 
 
